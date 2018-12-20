@@ -18,8 +18,8 @@ pokeHACK works only on windows.
 
 ### Installing
 
-Download pokeHACK by clcking [HERE](https://rometools.github.io/rome/) .
-Then, insert the
+- Download pokeHACK from the download session.
+- Insert the
 
 ## 2 - Download
 Download pokeHACK by clcking [HERE](https://rometools.github.io/rome/) .
