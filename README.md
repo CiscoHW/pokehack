@@ -2,7 +2,7 @@
 
 pokeHACK is a simple tool, which allows you to add some cheats of every Pokémon Essentials based game.
 
-## Built With
+## Menu
 
 * 1 - Getting Starded
 * 2 - Download
@@ -21,10 +21,10 @@ pokeHACK works only on windows.
 Download pokeHACK by clcking [HERE](https://rometools.github.io/rome/) .
 Then, insert the
 
-## Download
+## 2 - Download
 Download pokeHACK by clcking [HERE](https://rometools.github.io/rome/) .
 
-## Source Code
+## 3 - Source Code
 
 Go in the source code directory by clicking this [HERE](https://rometools.github.io/rome/) .
 
