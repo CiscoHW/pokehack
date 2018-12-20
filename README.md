@@ -26,5 +26,6 @@ Download pokeHACK by clcking [HERE](https://rometools.github.io/rome/) .
 
 ## 3 - Source Code
 
-Go in the source code directory by clicking this [HERE](https://rometools.github.io/rome/) .
+Download the source code by clicking [HERE](https://rometools.github.io/rome/) .
+Only the game event is avaliable to the download.
 
